@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*~
+
+# Documentation
+LOGO_REPLACEMENT_INSTRUCTIONS.md
+REPLACE_LOGO_FILES.md
+LOGO_REPLACEMENT_COMPLETE.md
